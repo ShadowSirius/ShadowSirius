@@ -5,7 +5,7 @@
 -   Bootloader, Linker command file, ADC/DAC, PWM, Timer, UART, SPI, CAN bus;
 -   Motor control, Android app, Unity Game design, HTML...
 -   
-- 👀 I’m interested in MCU, DSP, GUI, Data analysis, Image recognition.
+- 👀 I’m interested in AI application, MCU, DSP, GUI, Data analysis, Image recognition.
 - 🌱 I’m currently learning GUI, Data analysis.
 - 💞️ I’m looking to collaborate on mention above.
 - 📫 jay811006@gmail.com
